@@ -1,0 +1,23 @@
+.contenedor{
+    width: 1280px;
+    height: 800px;
+    background-color: blueviolet;
+    margin: auto;
+}
+header{
+    width: 1280px;
+    height: 200px;
+    background-color: red;
+}
+.nav{
+    width: 250px;
+    height: 600px;
+    background-color: green;
+}
+main{
+    width: 1330px;
+    height: 600;
+    background-color: #FEE94E;
+    margin-left: 250px;
+    margin-top: -600px;
+}
