@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+.contenedor{
+    background-color: rgb(215, 235, 241);
+}
+.h1{
+    color: black;
+    font-style: italic;
+}
+.contacto{
+    background-color: white;
+}
+.perfil{
+    background-color: white;
+
+}
+.lista{
+    background-color: white;
+}
+.perfilprofesional{
+    background-color: white;
+}
+.formacion{
+    background-color: white;
+}
+.experiencia{
+    background-color: white;
+}
+.habilidades{
+    background-color: white;
+}

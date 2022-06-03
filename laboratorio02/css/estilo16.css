@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Source+Serif+Pro:wght@900&display=swap');
+
+
+body{
+    background-color: bisque;
+}
+.contenedor{
+    background-color: white;
+    margin: auto;
+}
+
+.fuente1{
+    font-family: 'Maven Pro', sans-serif;
+}
+.fuente2{
+    font-family: 'Source Serif Pro', serif;
+}
+.fuente3{
+    font-style: italic;
+}
+.fuente4{
+    font-style: oblique;
+}
+.fuente5{
+    font-style: normal;
+}
+.fuente6{
+    font-weight: bold;
+}
+.fuente7{
+    font-weight: bolder;
+}
+.fuente8{
+    font-style: small;
+}
+.fuente9{
+    font-variant: small-caps;
+}
+.fuente10{
+    font-size: 25px;
+}
+.fuente11{
+    font-variant: normal;
+}
+@font-face {
+    font-family: "dancingscripbold";
+    src: url("/fonts/DancingScript-Bold.ttf");
+}
+@font-face {
+    font-family: "mavenproblack";
+    src: url("/fonts/MavenPro-Black.ttf");
+}
+@font-face {
+    font-family: "transformers";
+    src: url("/fonts/Transformers\ Movie.ttf");
+}
+@font-face {
+    font-family: "avengers";
+    src: url("/fonts/AVENGEANCE\ HEROIC\ AVENGER\ AT.otf");
+}
+
+.fuente12{
+    font-family: "dancingscripbold";
+}
+
+.fuente13{
+    font-family: "mavenproblack";
+}
+
+.fuente14{
+    font-family: "transformers";
+}
+
+.fuente15{
+    font-family: "avengers";
+}
